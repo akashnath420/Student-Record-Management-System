@@ -1,5 +1,5 @@
-                        # Student-Record-Management-System
-                                  Lab Mini Project
+# Student-Record-Management-System
+# Lab Mini Project
 Problem: Create a student Record Management system that can perform the following operations using Binary Search Tree Data Structure.:
 ● Insert Student record
 ● Delete student record
